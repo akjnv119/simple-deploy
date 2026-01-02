@@ -13,7 +13,7 @@ A simple Express.js backend application deployed to production.
 - Production deployment
 
 ## Live URL
-https://your-deployed-url.com
+https://simple-deploy-s7b6.onrender.com/
 
 ## Run Locally
 npm install
